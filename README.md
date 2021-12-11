@@ -12,9 +12,9 @@ And it is fully Mobile Responsibe.
 
 ## Screenshots
 
-<img src="./screenshots/Screenshot1.png" height="200px">
+<img style={{ display: 'flex', display: 'row' }} src="./screenshots/Screenshot1.png" height="200px">
 
-<img src="./screenshots/Screenshot2.png" height="200px">
+<img style={{ display: 'flex', display: 'row' }} src="./screenshots/Screenshot2.png" height="200px">
 
 <img src="./screenshots/Screenshot3.png" height="200px">
 
