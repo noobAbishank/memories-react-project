@@ -26,5 +26,6 @@ And it is fully Mobile Responsibe.
 
 Setup:
 
-run npm i && npm start for both client and server side to start the app
-
+```bash
+    run npm i && npm start for both client and server side to start the app
+```
