@@ -12,13 +12,13 @@ And it is fully Mobile Responsibe.
 
 ## Screenshots
 
-<img style={{ display: 'flex', display: 'row' }} src="./screenshots/Screenshot1.png" height="200px">
+<img src="./screenshots/Screenshot1.png" width="350px">
 
-<img style={{ display: 'flex', display: 'row' }} src="./screenshots/Screenshot2.png" height="200px">
+<img src="./screenshots/Screenshot2.png" width="350px">
 
-<img src="./screenshots/Screenshot3.png" height="200px">
+<img src="./screenshots/Screenshot3.png" width="350px">
 
-<img src="./screenshots/Screenshot4.png" height="200px">
+<img src="./screenshots/Screenshot4.png" width="350px">
 
 
 
