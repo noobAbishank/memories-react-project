@@ -12,9 +12,9 @@ And it is fully Mobile Responsibe.
 
 ## Screenshots
 
-<img src="./screenshots/Screenshot1.png" width="350px">
+<img src="./screenshots/Screenshot1.png" width="700px">
 
-<img src="./screenshots/Screenshot2.png" width="350px">
+<img src="./screenshots/Screenshot2.png" width="700px">
 
 <img src="./screenshots/Screenshot3.png" width="350px">
 
